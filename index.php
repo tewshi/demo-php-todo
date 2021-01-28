@@ -36,7 +36,7 @@ require_once 'database.php';
             </ul>
         </div>
     </nav>
-    <section class="section section-shaped section-md">
+    <section class="section section-shaped section-md mh-100vh">
         <div class="shape shape-style-1 bg-gradient-default">
             <span></span>
             <span></span>

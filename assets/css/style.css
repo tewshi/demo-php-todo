@@ -133,3 +133,7 @@ input[type='checkbox'] {
   margin-bottom: 8px;
   margin-top: 12px;
 }
+
+.mh-100vh {
+  min-height: 100vh;
+}
